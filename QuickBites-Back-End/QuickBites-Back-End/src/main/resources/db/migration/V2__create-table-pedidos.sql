@@ -1,0 +1,6 @@
+CREATE TABLE pedidos (
+    id BIGINT NOT NULL AUTO_INCREMENT,
+    productos JSON NOT NULL,
+    total DOUBLE NOT NULL,
+    PRIMARY KEY (id)
+);

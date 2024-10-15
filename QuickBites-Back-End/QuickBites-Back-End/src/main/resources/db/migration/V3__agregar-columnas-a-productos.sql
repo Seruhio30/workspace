@@ -1,0 +1,3 @@
+ALTER TABLE productos
+ADD COLUMN imagen VARCHAR(255),
+ADD COLUMN descripcion TEXT;
