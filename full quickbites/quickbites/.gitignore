@@ -48,3 +48,8 @@ Thumbs.db
 *.log
 *.tmp
 *.swp
+
+# Ignorar directorios completos
+JavaScript Pildoras informativas/
+dev's-hotel/
+QuickBites-Back-End/
